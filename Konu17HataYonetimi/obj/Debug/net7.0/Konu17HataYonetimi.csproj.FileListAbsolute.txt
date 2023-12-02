@@ -1,0 +1,14 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\bin\Debug\net7.0\Konu17HataYonetimi.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\bin\Debug\net7.0\Konu17HataYonetimi.deps.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\bin\Debug\net7.0\Konu17HataYonetimi.runtimeconfig.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\bin\Debug\net7.0\Konu17HataYonetimi.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\bin\Debug\net7.0\Konu17HataYonetimi.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\Konu17HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\Konu17HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\Konu17HataYonetimi.AssemblyInfo.cs
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\Konu17HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\Konu17HataYonetimi.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\refint\Konu17HataYonetimi.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\Konu17HataYonetimi.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\Konu17HataYonetimi.genruntimeconfig.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu17HataYonetimi\obj\Debug\net7.0\ref\Konu17HataYonetimi.dll

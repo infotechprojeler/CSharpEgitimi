@@ -1,0 +1,14 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\bin\Debug\net7.0\Konu08SiniflarClasses.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\bin\Debug\net7.0\Konu08SiniflarClasses.deps.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\bin\Debug\net7.0\Konu08SiniflarClasses.runtimeconfig.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\bin\Debug\net7.0\Konu08SiniflarClasses.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\bin\Debug\net7.0\Konu08SiniflarClasses.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.AssemblyInfo.cs
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\refint\Konu08SiniflarClasses.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.genruntimeconfig.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\ref\Konu08SiniflarClasses.dll

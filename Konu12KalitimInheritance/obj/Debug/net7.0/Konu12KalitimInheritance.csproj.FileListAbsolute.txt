@@ -1,0 +1,14 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\bin\Debug\net7.0\Konu12KalitimInheritance.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\bin\Debug\net7.0\Konu12KalitimInheritance.deps.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\bin\Debug\net7.0\Konu12KalitimInheritance.runtimeconfig.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\bin\Debug\net7.0\Konu12KalitimInheritance.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\bin\Debug\net7.0\Konu12KalitimInheritance.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\Konu12KalitimInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\Konu12KalitimInheritance.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\Konu12KalitimInheritance.AssemblyInfo.cs
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\Konu12KalitimInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\Konu12KalitimInheritance.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\refint\Konu12KalitimInheritance.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\Konu12KalitimInheritance.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\Konu12KalitimInheritance.genruntimeconfig.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu12KalitimInheritance\obj\Debug\net7.0\ref\Konu12KalitimInheritance.dll

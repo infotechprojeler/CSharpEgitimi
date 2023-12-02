@@ -1,0 +1,14 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\bin\Debug\net7.0\Konu02TipDonusumleri.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\bin\Debug\net7.0\Konu02TipDonusumleri.deps.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\bin\Debug\net7.0\Konu02TipDonusumleri.runtimeconfig.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\bin\Debug\net7.0\Konu02TipDonusumleri.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\bin\Debug\net7.0\Konu02TipDonusumleri.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\Konu02TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\Konu02TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\Konu02TipDonusumleri.AssemblyInfo.cs
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\Konu02TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\Konu02TipDonusumleri.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\refint\Konu02TipDonusumleri.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\Konu02TipDonusumleri.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\Konu02TipDonusumleri.genruntimeconfig.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu02TipDonusumleri\obj\Debug\net7.0\ref\Konu02TipDonusumleri.dll

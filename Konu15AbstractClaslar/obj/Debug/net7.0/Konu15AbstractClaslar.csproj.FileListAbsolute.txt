@@ -1,0 +1,14 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\bin\Debug\net7.0\Konu15AbstractClaslar.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\bin\Debug\net7.0\Konu15AbstractClaslar.deps.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\bin\Debug\net7.0\Konu15AbstractClaslar.runtimeconfig.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\bin\Debug\net7.0\Konu15AbstractClaslar.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\bin\Debug\net7.0\Konu15AbstractClaslar.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\Konu15AbstractClaslar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\Konu15AbstractClaslar.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\Konu15AbstractClaslar.AssemblyInfo.cs
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\Konu15AbstractClaslar.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\Konu15AbstractClaslar.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\refint\Konu15AbstractClaslar.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\Konu15AbstractClaslar.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\Konu15AbstractClaslar.genruntimeconfig.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu15AbstractClaslar\obj\Debug\net7.0\ref\Konu15AbstractClaslar.dll

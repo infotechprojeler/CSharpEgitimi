@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Konu17HataYonetimi/1.0.0": {
+        "runtime": {
+          "Konu17HataYonetimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konu17HataYonetimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

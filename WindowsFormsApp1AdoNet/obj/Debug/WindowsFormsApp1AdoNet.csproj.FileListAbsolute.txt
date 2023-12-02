@@ -1,0 +1,13 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\bin\Debug\WindowsFormsApp1AdoNet.exe.config
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\bin\Debug\WindowsFormsApp1AdoNet.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\bin\Debug\WindowsFormsApp1AdoNet.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.csproj.AssemblyReference.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.Form1.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.Properties.Resources.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.csproj.GenerateResource.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.KategoriYonetimi.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.Login.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp1AdoNet\obj\Debug\WindowsFormsApp1AdoNet.KullaniciYonetimi.resources

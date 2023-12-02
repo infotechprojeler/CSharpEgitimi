@@ -1,0 +1,14 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\bin\Debug\net7.0\Konu14InterfacesArayuzler.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\bin\Debug\net7.0\Konu14InterfacesArayuzler.deps.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\bin\Debug\net7.0\Konu14InterfacesArayuzler.runtimeconfig.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\bin\Debug\net7.0\Konu14InterfacesArayuzler.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\bin\Debug\net7.0\Konu14InterfacesArayuzler.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\Konu14InterfacesArayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\Konu14InterfacesArayuzler.AssemblyInfoInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\Konu14InterfacesArayuzler.AssemblyInfo.cs
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\Konu14InterfacesArayuzler.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\Konu14InterfacesArayuzler.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\refint\Konu14InterfacesArayuzler.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\Konu14InterfacesArayuzler.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\Konu14InterfacesArayuzler.genruntimeconfig.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu14InterfacesArayuzler\obj\Debug\net7.0\ref\Konu14InterfacesArayuzler.dll
