@@ -1,0 +1,15 @@
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\bin\Debug\WindowsFormsApp2EFDBFirst.exe.config
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\bin\Debug\WindowsFormsApp2EFDBFirst.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\bin\Debug\WindowsFormsApp2EFDBFirst.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\bin\Debug\EntityFramework.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\bin\Debug\EntityFramework.xml
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.csproj.AssemblyReference.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.Form1.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.Properties.Resources.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.csproj.GenerateResource.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.csproj.CoreCompileInputs.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.csproj.CopyComplete
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.exe
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.pdb
