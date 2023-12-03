@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1AdoNet
+﻿namespace WindowsFormsApp2EFDBFirst
 {
     partial class KullaniciYonetimi
     {
@@ -28,14 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgvKullanicilar = new System.Windows.Forms.DataGridView();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnGeri = new System.Windows.Forms.Button();
             this.btnSil = new System.Windows.Forms.Button();
             this.btnGuncelle = new System.Windows.Forms.Button();
             this.btnEkle = new System.Windows.Forms.Button();
             this.txtTelefon = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.txtEmail = new System.Windows.Forms.TextBox();
             this.txtSifre = new System.Windows.Forms.TextBox();
             this.txtKullaniciAdi = new System.Windows.Forms.TextBox();
             this.txtSoyad = new System.Windows.Forms.TextBox();
@@ -46,45 +44,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvKullanicilar)).BeginInit();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.dgvKullanicilar = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvKullanicilar)).BeginInit();
             this.SuspendLayout();
-            // 
-            // dgvKullanicilar
-            // 
-            this.dgvKullanicilar.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvKullanicilar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvKullanicilar.Location = new System.Drawing.Point(12, 12);
-            this.dgvKullanicilar.Name = "dgvKullanicilar";
-            this.dgvKullanicilar.RowHeadersWidth = 51;
-            this.dgvKullanicilar.RowTemplate.Height = 24;
-            this.dgvKullanicilar.Size = new System.Drawing.Size(955, 315);
-            this.dgvKullanicilar.TabIndex = 0;
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.btnGeri);
-            this.groupBox1.Controls.Add(this.btnSil);
-            this.groupBox1.Controls.Add(this.btnGuncelle);
-            this.groupBox1.Controls.Add(this.btnEkle);
-            this.groupBox1.Controls.Add(this.txtTelefon);
-            this.groupBox1.Controls.Add(this.textBox5);
-            this.groupBox1.Controls.Add(this.txtSifre);
-            this.groupBox1.Controls.Add(this.txtKullaniciAdi);
-            this.groupBox1.Controls.Add(this.txtSoyad);
-            this.groupBox1.Controls.Add(this.label6);
-            this.groupBox1.Controls.Add(this.txtAd);
-            this.groupBox1.Controls.Add(this.label5);
-            this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 370);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(640, 213);
-            this.groupBox1.TabIndex = 1;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Kullanıcı Yönetimi";
             // 
             // btnGeri
             // 
@@ -118,6 +82,7 @@
             this.btnGuncelle.TabIndex = 17;
             this.btnGuncelle.Text = "Güncelle";
             this.btnGuncelle.UseVisualStyleBackColor = true;
+            this.btnGuncelle.Click += new System.EventHandler(this.btnGuncelle_Click);
             // 
             // btnEkle
             // 
@@ -128,6 +93,7 @@
             this.btnEkle.TabIndex = 16;
             this.btnEkle.Text = "Ekle";
             this.btnEkle.UseVisualStyleBackColor = true;
+            this.btnEkle.Click += new System.EventHandler(this.btnEkle_Click);
             // 
             // txtTelefon
             // 
@@ -136,12 +102,12 @@
             this.txtTelefon.Size = new System.Drawing.Size(100, 22);
             this.txtTelefon.TabIndex = 9;
             // 
-            // textBox5
+            // txtEmail
             // 
-            this.textBox5.Location = new System.Drawing.Point(102, 113);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 22);
-            this.textBox5.TabIndex = 9;
+            this.txtEmail.Location = new System.Drawing.Point(102, 113);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(100, 22);
+            this.txtEmail.TabIndex = 9;
             // 
             // txtSifre
             // 
@@ -225,42 +191,80 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Ad";
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.btnGeri);
+            this.groupBox1.Controls.Add(this.btnSil);
+            this.groupBox1.Controls.Add(this.btnGuncelle);
+            this.groupBox1.Controls.Add(this.btnEkle);
+            this.groupBox1.Controls.Add(this.txtTelefon);
+            this.groupBox1.Controls.Add(this.txtEmail);
+            this.groupBox1.Controls.Add(this.txtSifre);
+            this.groupBox1.Controls.Add(this.txtKullaniciAdi);
+            this.groupBox1.Controls.Add(this.txtSoyad);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.txtAd);
+            this.groupBox1.Controls.Add(this.label5);
+            this.groupBox1.Controls.Add(this.label4);
+            this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Location = new System.Drawing.Point(12, 370);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(640, 213);
+            this.groupBox1.TabIndex = 3;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Kullanıcı Yönetimi";
+            // 
+            // dgvKullanicilar
+            // 
+            this.dgvKullanicilar.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvKullanicilar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvKullanicilar.Location = new System.Drawing.Point(12, 12);
+            this.dgvKullanicilar.Name = "dgvKullanicilar";
+            this.dgvKullanicilar.RowHeadersWidth = 51;
+            this.dgvKullanicilar.RowTemplate.Height = 24;
+            this.dgvKullanicilar.Size = new System.Drawing.Size(955, 315);
+            this.dgvKullanicilar.TabIndex = 2;
+            this.dgvKullanicilar.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvKullanicilar_CellClick);
+            // 
             // KullaniciYonetimi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(981, 619);
+            this.ClientSize = new System.Drawing.Size(984, 600);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dgvKullanicilar);
             this.Name = "KullaniciYonetimi";
-            this.Text = "Kullanici Yönetimi";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "KullaniciYonetimi";
             this.Load += new System.EventHandler(this.KullaniciYonetimi_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvKullanicilar)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvKullanicilar)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dgvKullanicilar;
-        private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.Button btnGeri;
+        private System.Windows.Forms.Button btnSil;
+        private System.Windows.Forms.Button btnGuncelle;
+        private System.Windows.Forms.Button btnEkle;
+        private System.Windows.Forms.TextBox txtTelefon;
+        private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.TextBox txtSifre;
         private System.Windows.Forms.TextBox txtKullaniciAdi;
         private System.Windows.Forms.TextBox txtSoyad;
+        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txtAd;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtTelefon;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button btnGeri;
-        private System.Windows.Forms.Button btnSil;
-        private System.Windows.Forms.Button btnGuncelle;
-        private System.Windows.Forms.Button btnEkle;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.DataGridView dgvKullanicilar;
     }
 }

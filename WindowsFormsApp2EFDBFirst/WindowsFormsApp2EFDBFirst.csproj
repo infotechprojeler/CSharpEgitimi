@@ -76,6 +76,18 @@
     <Compile Include="Kullanicilar.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="KullaniciYonetimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciYonetimi.Designer.cs">
+      <DependentUpon>KullaniciYonetimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model1.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -101,6 +113,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="KategoriYonetimi.resx">
       <DependentUpon>KategoriYonetimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciYonetimi.resx">
+      <DependentUpon>KullaniciYonetimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

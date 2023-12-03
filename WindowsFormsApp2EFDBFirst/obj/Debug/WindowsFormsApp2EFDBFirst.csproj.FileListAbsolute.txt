@@ -13,3 +13,6 @@ C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.csproj.CopyComplete
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.exe
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.KategoriYonetimi.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.Login.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp2EFDBFirst\obj\Debug\WindowsFormsApp2EFDBFirst.KullaniciYonetimi.resources
