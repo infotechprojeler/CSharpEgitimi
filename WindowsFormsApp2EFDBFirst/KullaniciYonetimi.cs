@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.Entity.Migrations;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -75,6 +76,7 @@ namespace WindowsFormsApp2EFDBFirst
             }
             var kullanici = new Kullanicilar()
             {
+                Id = (int)dgvKullanicilar.CurrentRow.Cells[0].Value,
                 Email = txtEmail.Text,
                 Name = txtAd.Text,
                 Surname = txtSoyad.Text,
@@ -84,12 +86,26 @@ namespace WindowsFormsApp2EFDBFirst
                 UserGuid = Guid.NewGuid() // her kullanıcıya özel bir kod oluşturur
             };
 
-            context.Kullanicilar.Add(kullanici);
+            context.Kullanicilar.AddOrUpdate(kullanici);
             var sonuc = context.SaveChanges();
             if (sonuc > 0)
             {
                 dgvKullanicilar.DataSource = context.Kullanicilar.ToList();
                 MessageBox.Show("Kayıt Başarılı!");
+            }
+        }
+
+        private void btnSil_Click(object sender, EventArgs e)
+        {
+            var kullanici = context.Kullanicilar.Find((int)dgvKullanicilar.CurrentRow.Cells[0].Value);
+
+            context.Kullanicilar.Remove(kullanici);
+
+            var sonuc = context.SaveChanges();
+            if (sonuc > 0)
+            {
+                dgvKullanicilar.DataSource = context.Kullanicilar.ToList();
+                MessageBox.Show("Kayıt Silme Başarılı!");
             }
         }
     }
