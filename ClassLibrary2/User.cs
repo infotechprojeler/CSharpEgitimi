@@ -12,5 +12,8 @@ namespace ClassLibrary2
         public string Email { get; set; }
         public string Phone { get; set; }
         public Guid UserGuid { get; set; }
+        public bool IsActive { get; set; } // eğer bir class a sonradan property eklersek veya silersek bu durumda migrations yapısını kullanmalıyız
+        public DateTime CreateDate { get; set; } = DateTime.Now;
+
     }
 }

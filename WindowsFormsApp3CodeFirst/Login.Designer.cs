@@ -54,6 +54,7 @@
             this.menuStrip1.Size = new System.Drawing.Size(980, 28);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.Visible = false;
             // 
             // kategoriYönetimiToolStripMenuItem
             // 
@@ -74,6 +75,7 @@
             this.kullanıcıYönetimiToolStripMenuItem.Name = "kullanıcıYönetimiToolStripMenuItem";
             this.kullanıcıYönetimiToolStripMenuItem.Size = new System.Drawing.Size(141, 24);
             this.kullanıcıYönetimiToolStripMenuItem.Text = "Kullanıcı Yönetimi";
+            this.kullanıcıYönetimiToolStripMenuItem.Click += new System.EventHandler(this.kullanıcıYönetimiToolStripMenuItem_Click);
             // 
             // groupBox1
             // 
@@ -100,6 +102,7 @@
             this.btnGiris.TabIndex = 4;
             this.btnGiris.Text = "Giriş";
             this.btnGiris.UseVisualStyleBackColor = true;
+            this.btnGiris.Click += new System.EventHandler(this.btnGiris_Click);
             // 
             // txtSifre
             // 

@@ -17,3 +17,7 @@ C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp3CodeFirst\obj\Debug\WindowsFormsApp3CodeFirst.exe
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp3CodeFirst\obj\Debug\WindowsFormsApp3CodeFirst.pdb
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp3CodeFirst\obj\Debug\WindowsFormsApp3CodeFirst.UrunYonetimi.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp3CodeFirst\obj\Debug\WindowsFormsApp3CodeFirst.KullaniciYonetimi.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp3CodeFirst\obj\Debug\WindowsFormsApp3CodeFirst.Migrations.InitialCreate.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp3CodeFirst\obj\Debug\WindowsFormsApp3CodeFirst.Migrations.AddUserCreateDate.resources
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\WindowsFormsApp3CodeFirst\obj\Debug\WindowsFormsApp3CodeFirst.Migrations.BrandTablosuEklendi.resources
