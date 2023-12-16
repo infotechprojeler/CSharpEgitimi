@@ -12,3 +12,4 @@ C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu10StringSinifi\obj\Debug\net7.0\Konu10StringSinifi.pdb
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu10StringSinifi\obj\Debug\net7.0\Konu10StringSinifi.genruntimeconfig.cache
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu10StringSinifi\obj\Debug\net7.0\ref\Konu10StringSinifi.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu10StringSinifi\obj\Debug\net7.0\Konu10StringSinifi.sourcelink.json

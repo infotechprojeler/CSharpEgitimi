@@ -12,3 +12,8 @@ C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.pdb
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.genruntimeconfig.cache
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\ref\Konu08SiniflarClasses.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\bin\Debug\net7.0\ClassLibrary1.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\bin\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.csproj.AssemblyReference.cache
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.sourcelink.json
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu08SiniflarClasses\obj\Debug\net7.0\Konu08SiniflarClasses.csproj.CopyComplete

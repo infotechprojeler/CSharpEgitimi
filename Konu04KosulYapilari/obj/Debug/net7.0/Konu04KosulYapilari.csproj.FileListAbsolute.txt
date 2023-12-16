@@ -12,3 +12,4 @@ C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu04KosulYapilari\obj\Debug\net7.0\Konu04KosulYapilari.pdb
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu04KosulYapilari\obj\Debug\net7.0\Konu04KosulYapilari.genruntimeconfig.cache
 C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu04KosulYapilari\obj\Debug\net7.0\ref\Konu04KosulYapilari.dll
+C:\Users\Infotech Academy\source\repos\Haftaiçi Sabah Grubu(9 Ekim)\1-) Console Uygulamaları\6. Gün\CSharpEgitimi\Konu04KosulYapilari\obj\Debug\net7.0\Konu04KosulYapilari.sourcelink.json
