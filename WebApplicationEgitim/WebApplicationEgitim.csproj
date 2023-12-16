@@ -72,14 +72,22 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="anasayfa.html" />
+    <Content Include="CssEgitimi\Css01Giris.html" />
+    <Content Include="CssEgitimi\Css02Arkaplanlar.html" />
+    <Content Include="CssEgitimi\Css03MarginPadding.html" />
+    <Content Include="CssEgitimi\Css04GenislikYukseklik.html" />
+    <Content Include="CssEgitimi\Css05DisplayOzelligi.html" />
     <Content Include="Global.asax" />
     <Content Include="hakkimizda.html" />
+    <Content Include="Images\1200px-LampFlowchart_tr.svg.png" />
+    <Content Include="Images\google.png" />
     <Content Include="Images\resim1.png" />
     <Content Include="Images\resim2.png" />
     <Content Include="Images\resim3.png" />
     <Content Include="index.html" />
     <Content Include="KategoriYonetimi.aspx" />
     <Content Include="Search.html" />
+    <Content Include="stil.css" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
