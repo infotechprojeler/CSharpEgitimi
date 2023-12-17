@@ -77,10 +77,19 @@
     <Content Include="CssEgitimi\Css03MarginPadding.html" />
     <Content Include="CssEgitimi\Css04GenislikYukseklik.html" />
     <Content Include="CssEgitimi\Css05DisplayOzelligi.html" />
+    <Content Include="CssEgitimi\Css06PositionOzelligi.html" />
+    <Content Include="CssEgitimi\Css07FloatOzelligi.html" />
+    <Content Include="egitimler.html" />
     <Content Include="Global.asax" />
     <Content Include="hakkimizda.html" />
+    <Content Include="iletisim.html" />
     <Content Include="Images\1200px-LampFlowchart_tr.svg.png" />
+    <Content Include="Images\aspnetcoemvc16.png" />
+    <Content Include="Images\bgVideo.jpg" />
     <Content Include="Images\google.png" />
+    <Content Include="Images\logoInfotechAcademy.png" />
+    <Content Include="Images\net-core-eticaret-gelistirme-egitimi29.png" />
+    <Content Include="Images\react_native_kursu_egitimi_infotechacademy25.png" />
     <Content Include="Images\resim1.png" />
     <Content Include="Images\resim2.png" />
     <Content Include="Images\resim3.png" />
@@ -88,6 +97,7 @@
     <Content Include="KategoriYonetimi.aspx" />
     <Content Include="Search.html" />
     <Content Include="stil.css" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>

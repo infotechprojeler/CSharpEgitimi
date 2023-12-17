@@ -1,0 +1,45 @@
+﻿body {
+}
+
+.anaTablo {
+    margin: auto;
+    width: 1018px;
+}
+
+ul#menu li {
+    display: inline;
+    padding: 1.8rem;
+}
+
+ul#menu li:hover {
+    background-color: darkblue;
+}
+
+ul#menu li:hover a {
+    color:white;
+}
+
+#neden {
+    background-color: darkblue;
+    color: white;
+    padding: 1.8rem 0;
+    margin: 1.8rem 0;
+}
+
+.neden {
+    padding-left: 1.8rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.row{
+    display:flex;
+}

@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Css Float Özelliği</title>
+</head>
+<body>
+    <h1>Css Float Özelliği</h1>
+    <div>
+        <div style="background-color: green;">
+            Css Float Özelliği
+        </div>
+        <div style="float:left; background-color:yellowgreen; border:1px solid">
+            float:left özelliği verilen div sola yapışır, içeriği kadar yer kaplar, sonrasında gelen element buradan hizalanarak akışa katılır.
+        </div>
+        <div>
+            float:left verilen elementten sonraki
+        </div>
+        <div>
+            float:left verilen elementten sonraki 2.
+        </div>
+        <div>
+            float:left verilen elementten sonraki 3.
+        </div>
+    </div>
+
+    <div style="float:right; background-color:yellowgreen; border:1px solid">
+        float:right özelliği verilen div sağa yapışır, içeriği kadar yer kaplar, sonrasında gelen element buradan hizalanarak akışa katılır.
+    </div>
+    <div style="background-color: yellow;">
+        float:right verilen elementten sonraki
+    </div>
+    <div>
+        float:right verilen elementten sonraki 2.
+    </div>
+    <div>
+        float:right verilen elementten sonraki 3.
+    </div>
+
+    <div id="urunler">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+    </div>
+    <style>
+        #urunler div {
+            float: right;
+            padding: 3rem;
+            background-color: bisque;
+        }
+        .col{
+            float:left;
+        }
+    </style>
+
+    <div class="row" style="clear:right;">
+        <div class="col">
+            <img src="/Images/aspnetcoemvc16.png" width="333" />
+            <h3>
+                Asp.Net Core Mvc Eğitimi
+            </h3>
+        </div>
+        <div class="col">
+            <img src="/Images/net-core-eticaret-gelistirme-egitimi29.png" width="333" />
+            <h3>
+                Asp.Net Core Mvc E Ticaret Eğitimi
+            </h3>
+        </div>
+        <div class="col">
+            <img src="/Images/react_native_kursu_egitimi_infotechacademy25.png" width="333" />
+            <h3>
+                React Native ile Mobil Uygulama Eğitimi
+            </h3>
+        </div>
+    </div>
+
+    <div style="clear:both">
+        <h3>Float-Clear</h3>
+        <p>
+            Float özelliğini kaldırmamız gereken durumlarda kullanılır
+        </p>
+
+        <div style="float:left; background-color:bisque;">
+            float:left divi
+        </div>
+
+        <div style="background-color: brown; clear:both;">
+            float:left den sonraki div
+        </div>
+
+        <p>
+            float özelliği uygulanmış bir elementten sonraki elementi yapışma olayından kurtarmak için clear:left - right - both seçeneklerinden birini kullanırız.
+            <br />
+            clear:left - float:left in etkisini kaldırır
+            <br />
+            clear:right - float:right ın etkisini kaldırır
+            <br />
+            clear:both - hem float:left in hem de float:right ın etkisini kaldırır
+        </p>
+    </div>
+
+    <div id="kapsayici">
+        <div id="resim">
+            <img src="../Images/google.png" />
+        </div>
+        <div id="yazi">
+            <p>
+                float özelliği uygulanmış bir elementten sonraki elementi yapışma olayından kurtarmak için clear:left - right - both seçeneklerinden birini kullanırız.
+                <br />
+                clear:left - float:left in etkisini kaldırır
+                <br />
+                clear:right - float:right ın etkisini kaldırır
+                <br />
+                clear:both - hem float:left in hem de float:right ın etkisini kaldırır
+            </p>
+        </div>
+    </div>
+    <style>
+        #resim{
+            float:right;
+            padding: 1em;
+        }
+        #kapsayici {
+            width: 500px;
+            background-color: antiquewhite;
+            border: 5px outset red;
+            padding: 1em;
+        }
+    </style>
+
+</body>
+</html>
