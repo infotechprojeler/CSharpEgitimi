@@ -94,6 +94,14 @@
     <Content Include="Images\resim2.png" />
     <Content Include="Images\resim3.png" />
     <Content Include="index.html" />
+    <Content Include="JavascriptEgitimi\Konu01JavascriptGiris.html" />
+    <Content Include="JavascriptEgitimi\Konu02Operatorler.html" />
+    <Content Include="JavascriptEgitimi\Konu03KararYapilari.html" />
+    <Content Include="JavascriptEgitimi\Konu04Donguler.html" />
+    <Content Include="JavascriptEgitimi\Konu05Fonksiyonlar.html" />
+    <Content Include="JavascriptEgitimi\Konu06StringMetotlari.html" />
+    <Content Include="JavascriptEgitimi\Konu07Olaylar.html" />
+    <Content Include="JavascriptEgitimi\Konu08Diziler.html" />
     <Content Include="KategoriYonetimi.aspx" />
     <Content Include="Search.html" />
     <Content Include="stil.css" />

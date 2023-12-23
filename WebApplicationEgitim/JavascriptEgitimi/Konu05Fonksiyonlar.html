@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Javascript Fonksiyonlar</title>
+</head>
+<body>
+    <h1>Javascript Fonksiyonlar</h1>
+    <script>
+        // Fonksiyon tanımlama
+        function myfunction(parametre) { // Fonksiyona gönderilecek parametrede veri tipine gerek yok
+            console.log("Fonksiyona gönderilen değer : ", parametre);
+        }
+        // Fonksiyon kullanma
+        myfunction("parametreye gönderilecek değer")
+        myfunction(18)
+        myfunction(true)
+
+        // Örnek 2
+        function ToplamaYap(sayi1, sayi2) {
+            console.log("Toplam : ", sayi1 + sayi2);
+        }
+
+        ToplamaYap(10, 8) // metoda parametrelerin gönderimi
+        ToplamaYap(50, 8)
+        ToplamaYap(30, 4)
+
+        console.warn("Geriye değer döndüren metot");
+        function cikarmaYap(sayi1, sayi2) {
+            return sayi1 - sayi2; // metodun çağrılacağı yere işlem sonucunu return ifadesiyle döndürüyoruz
+        }
+        console.log("Toplam : ", cikarmaYap(10, 8));  // metoda parametrelerin gönderimi
+        console.log("Toplam : ", cikarmaYap(50, 8));
+
+        console.warn("Örnek 4 sayfa arkaplan ve yazı rengini değiştirme");
+        function renkDegistir(arkaplanRengi, yaziRengi) {
+            document.bgColor = arkaplanRengi
+            document.fgColor = yaziRengi
+        }
+        renkDegistir("red", "white")
+        renkDegistir("black", "white")
+
+        console.warn("Hazır gelen özellikler");
+        console.log("pencere iç yüksekliği : ", window.innerHeight);
+        console.log("pencere iç genişliği : ", window.innerWidth);
+
+        console.log("pencere dış yüksekliği : ", window.outerHeight);
+        console.log("pencere dış genişliği : ", window.outerWidth);
+    </script>
+</body>
+</html>

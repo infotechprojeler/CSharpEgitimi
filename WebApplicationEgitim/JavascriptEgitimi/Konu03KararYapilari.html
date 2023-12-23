@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Karar Yapıları</title>
+</head>
+<body>
+    <h1>Karar Yapıları</h1>
+    <p>
+        Program kodlarımızı içeriğe göre yönlendirmemizi sağlayan if, else if, else ve stitch case yapısı
+    </p>
+    <script>
+        var sayi = 10
+        if (sayi > 0) {
+            console.log("Sayı pozitif");
+        }
+        else if (sayi == 0) {
+            console.log("Sayı sıfır");
+        }
+        else {
+            console.log("Sayı negatif");
+        }
+
+        // ternary operatörü kullanımı
+        console.warn(sayi > 0 ? "Sayı pozitif" : "Sayı negatif");
+
+        // Switch case
+        switch (sayi) {
+            case 10: console.log("Sayı pozitif")
+                break;
+            case -10: console.log("Sayı negatif")
+                break;
+            default: console.log("Sayı sıfır")
+                break;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js Diziler</title>
+</head>
+<body>
+    <h1>Js Diziler</h1>
+    <script>
+        var sayilar = [3, 5, 7, 9]
+        var toplam = 0
+        for (var i in sayilar) { // dizi yapılarında kullanılmak için for in metodu bulunur
+            toplam += sayilar[i]
+            document.write("i nin değeri : " + i + " - sayilar[i] : " + sayilar[i], "<br>")
+        }
+        document.write("toplam in değeri : " + toplam)
+    </script>
+</body>
+</html>
