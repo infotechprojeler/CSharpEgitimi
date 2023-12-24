@@ -102,7 +102,18 @@
     <Content Include="JavascriptEgitimi\Konu06StringMetotlari.html" />
     <Content Include="JavascriptEgitimi\Konu07Olaylar.html" />
     <Content Include="JavascriptEgitimi\Konu08Diziler.html" />
+    <Content Include="JavascriptEgitimi\Konu09Seciciler.html" />
+    <Content Include="JavascriptEgitimi\Konu10-JquerySeciciler.html" />
+    <Content Include="JavascriptEgitimi\Konu11-Jquery-Html.html" />
+    <Content Include="JavascriptEgitimi\Konu12-Jquery-Css.html" />
+    <Content Include="JavascriptEgitimi\Konu13-Jquery-DOM.html" />
+    <Content Include="JavascriptEgitimi\Konu14-Jquery-efektler.html" />
     <Content Include="KategoriYonetimi.aspx" />
+    <None Include="Scripts\jquery-3.7.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.7.1.js" />
+    <Content Include="Scripts\jquery-3.7.1.min.js" />
+    <Content Include="Scripts\jquery-3.7.1.slim.js" />
+    <Content Include="Scripts\jquery-3.7.1.slim.min.js" />
     <Content Include="Search.html" />
     <Content Include="stil.css" />
     <Content Include="style.css" />
@@ -132,6 +143,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.7.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.7.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

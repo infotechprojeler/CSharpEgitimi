@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Jquery DOM Değiştirme</title>
+    <style>
+        .baslik {
+            color: red;
+            font-size: larger
+        }
+
+        .renk {
+            color: crimson
+        }
+
+        .brd {
+            border: 1px solid blue;
+            min-height: 1rem;
+        }
+    </style>
+    <script src="../Scripts/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+    <h1>Jquery DOM Değiştirme</h1>
+    <h2>Html Input Değerlerini Alma</h2>
+    <form>
+        <input type="text" id="metin" value="textbox içindeki değer" />
+        <hr />
+        <textarea name="urunAciklama" id="urunAciklama">ürün açıklaması giriş alanı</textarea>
+        <hr />
+        <input type="checkbox" id="checkbox1" /> Onaylıyorum
+        <hr />
+        <select id="dropdownlist">
+            <option value="Elektronik">Elektronik</option>
+            <option value="Bilgisayar">Bilgisayar</option>
+            <option value="Telefon">Telefon</option>
+        </select>
+        <hr />
+        <input type="radio" name="cinsiyet" value="Kadın" /> Kadın
+        <input type="radio" name="cinsiyet" value="Erkek" /> Erkek
+        <hr />
+        <a href="index.html" title="Anasayfa">Anasayfa</a>
+    </form>
+    <p id="sonuclar"></p>
+    <input type="button" id="button1" value="Sonuçlar" />
+    <input type="button" id="button2" value="Attribute Değerleri" />
+    <script>
+        $("#button1").click(function () {
+            // ekrandaki button1 id li elemente tıklandığında
+            var degerler = ""
+            degerler += "Input değeri : " + $("#metin").val() // jquery val metoduyla veriye ulaşıyoruz
+            degerler += "<hr>Ürün açıklama değeri : " + $("#urunAciklama").val()
+            degerler += "<hr>checkbox değeri : " + $("input#checkbox1:checkbox:checked").val()
+            degerler += "<hr>dropdownlist değeri : " + $("#dropdownlist").val()
+            degerler += "<hr>cinsiyet değeri : " + $("input[name=cinsiyet]:checked").val()
+            $("#sonuclar").html(degerler)
+        })
+        $("#button2").on("click", function () {
+            var degerler = ""
+            degerler += "<hr>Attribute href değeri : " + $("form a").attr("href")
+            degerler += "<hr>Attribute title değeri : " + $("form a").attr("title")
+            $("#sonuclar").html(degerler)
+        })
+    </script>
+
+    <hr />
+    
+    <h2>Jquery ile Html Elementleri Ekleme</h2>
+    <div id="eleman" class="brd">
+        append : seçili elemanın sonuna <br />
+        prepend : seçili elemanın başına <br />
+        after : seçili elemanın sonrasına <br />
+        before : seçili elemanın öncesine element eklememizi sağlar
+    </div>
+    <input type="button" id="button3" value="Html elementleri ekle" />
+    <script>
+        $("#button3").on("click", function () {
+            $("#eleman").append("<h3 style='color:red'>append ile eklendi</h3>")
+            $("#eleman").prepend("<h3 style='color:green'>prepend ile eklendi</h3>")
+            $("#eleman").after("<h3 style='color:blue'>after ile eklendi</h3>")
+            $("#eleman").before("<h3 style='color:orange'>before ile eklendi</h3>")
+        })
+    </script>
+
+    <hr />
+
+    <h2>Jquery ile Html Elementleri Kaldırma</h2>
+    <div id="silinecek">silinecek</div>
+    <input type="button" id="button4" value="html elementi sil" />
+    <script>
+        $("#button4").on("click", function () {
+            // $("#silinecek").remove() // silinecek id li elementi sil
+            // $("#silinecek").empty() // elementi boşalt
+
+            document.getElementById("silinecek").remove() // js ile
+        })
+    </script>
+
+    <hr />
+
+    <h2>Jquery ile Change Olayını Yakalama</h2>
+    <input type="text" id="degisim" />
+    <h3 id="jqchange"></h3>
+    <p>
+        <h4>Kategoriler</h4>
+        <select class="degisim">
+            <option value="Elektronik">Elektronik</option>
+            <option value="Bilgisayar">Bilgisayar</option>
+            <option value="Telefon">Telefon</option>
+        </select>
+    </p>
+    <script>
+        $(".degisim").on("change", function () {
+            $("#jqchange").html($(this).val())
+        })
+
+        $("#degisim").change(function () {
+            $("#jqchange").text($(this).val())
+        })
+    </script>
+</body>
+</html>

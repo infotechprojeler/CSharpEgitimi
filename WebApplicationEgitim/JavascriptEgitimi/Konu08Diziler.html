@@ -14,6 +14,29 @@
             document.write("i nin değeri : " + i + " - sayilar[i] : " + sayilar[i], "<br>")
         }
         document.write("toplam in değeri : " + toplam)
+
+        for (var i of sayilar) { // javascript de for of döngü türü c# taki foreach gibi çalışır
+            document.write("<br> i nin değeri : " + i)
+        }
+
+        var arabalar = ["Fiat", "Peugeot", "TOGG"]
+        console.log(arabalar);
+        let arac = arabalar[2]
+        document.write("<br><br> Seçilen araç : " + arac)
+        console.log(arac);
+
+        var meyveler = new Array("Elma", "Armut", "Kiraz", "Mandalina", "Portakal");
+        console.log(meyveler);
+
+        for (var i in meyveler) {
+            document.write("<h3> meyve : " + i + "</h3>")
+            document.write("<h3> meyve : " + meyveler[i] + "</h3>")
+        }
+        document.write("<h3>listedeki ilk meyve : " + meyveler[0] + "</h3>")
+
+        for (var meyve of meyveler) {
+            document.write("<h3>" + meyve.toUpperCase() + "</h3>")
+        }
     </script>
 </body>
 </html>
