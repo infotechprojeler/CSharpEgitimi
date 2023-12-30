@@ -1,0 +1,2 @@
+﻿<h1>Jquery Ajax</h1>
+Ajax yöntemi saufa postback olmadan içerik alışverişi yapılmasını sağlar

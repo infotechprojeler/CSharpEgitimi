@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Bootrstarp Hizalama İşlemleri</title>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Bootrstarp Hizalama İşlemleri</h1>
+    <p>
+        Bootrstarp css display flex özelliğini kullanır ve dikeyde yatayda buna göre hizalama yapar.
+    </p>
+    <h2>Kolonları Dikeyde Hizalama</h2>
+    <div>
+        <h3>Hizalama class ları</h3>
+        <ol>
+            <li>align-items-start : başlangıça hizala</li>
+            <li>align-items-center : merkeze hizala</li>
+            <li>align-items-end : sona hizala</li>
+        </ol>
+    </div>
+    <div class="row row-cols-3 align-items-start" style="min-height:222px; background-color:antiquewhite">
+        <div class="col">1</div>
+        <div class="col">2</div>
+        <div class="col">3</div>
+        <div class="col">4</div>
+        <div class="col">5</div>
+        <div class="col">6</div>
+        <div class="col">7</div>
+        <div class="col">8</div>
+        <div class="col">9</div>
+    </div>
+    <h2>Kolonları Yatayda Hizalama</h2>
+    <ol>
+        <li>justify-content-start : başa hizala</li>
+        <li>justify-content-center : merkeze hizala</li>
+        <li>justify-content-end : sona hizala</li>
+        <li>justify-content-around : her iki yana eşit boşlukla hizala</li>
+        <li>justify-content-between : ilk öğe başa, son öğe sona gelecek şekilde boşlukla hizala</li>
+        <li>justify-content-evenly : tüm kolonları eşit şekilde boşlukla hizala</li>
+    </ol>
+    <div class="row justify-content-around" style="min-height:222px; background-color:antiquewhite">
+        <div class="col-2">1</div>
+        <div class="col-2">2</div>
+        <div class="col-2">3</div>
+    </div>
+</body>
+</html>

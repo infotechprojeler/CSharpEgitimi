@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Form Elementleri</title>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h1>Form Elementleri</h1>
+        <p>
+            Kullanıcıdan veri aldığımız input elementleri için özel classlar bulunur
+        </p>
+        <form action="/" method="post">
+            <table>
+                <tr>
+                    <td>Kullanıcı Adı</td>
+                    <td>
+                        <input type="text" name="txtKullanici"  />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Şifre</td>
+                    <td>
+                        <input type="password" name="txtSifre" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Giriş" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <hr />
+        <h3>Bootstrap uygulanmış hali</h3>
+        <form action="/" method="post">
+            <table class="table table-bordered w-50 m-auto">
+                <tr>
+                    <td>Kullanıcı Adı</td>
+                    <td>
+                        <input type="text" name="txtKullanici" class="form-control"  />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Şifre</td>
+                    <td>
+                        <input type="password" name="txtSifre" class="form-control" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Giriş" class="btn btn-primary" />
+                        <input type="submit" value="Kayıt" class="btn btn-secondary" />
+                        <input type="submit" value="Çıkış" class="btn btn-danger" />
+                        <input type="submit" value="Bilgi Al" class="btn btn-info" />
+                        <input type="submit" value="Kaydet" class="btn btn-success" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Outline classı</td>
+                    <td>
+                        <input type="submit" value="Giriş" class="btn btn-outline-primary" />
+                        <input type="submit" value="Kayıt" class="btn btn-outline-secondary" />
+                        <input type="submit" value="Çıkış" class="btn btn-outline-danger" />
+                        <input type="submit" value="Bilgi Al" class="btn btn-outline-info" />
+                        <input type="submit" value="Kaydet" class="btn btn-outline-success" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <hr />
+        <h3>A elementleri</h3>
+        <a href="#">Anasayfa</a>
+        <br />
+        <a href="#" class="btn btn-success">Anasayfa</a>
+        <br />
+        <a href="#" class="btn btn-outline-success">Anasayfa</a>
+    </div>
+</body>
+</html>

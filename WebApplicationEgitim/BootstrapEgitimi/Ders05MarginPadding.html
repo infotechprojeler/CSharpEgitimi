@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Bootsrtap de Margin ve Padding Kullanımı</title>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h1>Bootsrtap de Margin ve Padding Kullanımı</h1>
+        <h2>Margin - Dış Boşluk</h2>
+        <div class="row">
+            <div class="col-4">
+                kolon 1
+            </div>
+            <div class="col-4 ms-auto">
+                kolon 2 ms-auto class ı margin start ın kısaltmasıdır
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-4">
+                kolon 1
+            </div>
+            <div class="col-4 me-auto">
+                kolon 2 me-auto class ı margin end in kısaltmasıdır
+            </div>
+            <div class="col-1">
+                kolon 3
+            </div>
+        </div>
+
+        <hr />
+
+        <div class="row">
+            <div class="col-2">
+                2 birimlik ilk kolon
+            </div>
+            <div class="col-3 ms-5">
+                3 birimlik 2. kolon ms-5 margin start 5 birim boşluk bırakır
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-2">
+                2 birimlik ilk kolon
+            </div>
+            <div class="col-3 ms-5 me-5">
+                3 birimlik 2. kolon ms-5 margin start 5 birim boşluk bırakır
+            </div>
+            <div class="col">
+                son kolon
+            </div>
+        </div>
+
+        <hr />
+
+        <p>
+            Bootstrap de bir kolona üstten margin vermek için mt-0 .. 5 arasında, <br />
+            alltan margin vermek için mb-0 .. 5 arasında, <br />
+            soldan margin vermek için ms-0 .. 5 arasında, <br />
+            sağdan margin vermek için me-0 .. 5 arasında, class değeri verebiliriz
+        </p>
+
+        <p class="m-5">
+            eğer 4 yönden margin vereceksek m-0 .. 5 classını
+        </p>
+
+        <p class="mx-5">
+            mx-5 classı soldan ve sağdan 5 birimlik boşluk verir
+        </p>
+
+        <p class="my-5">
+            my-5 classı üstten alttan 5 birimlik boşluk verir
+        </p>
+
+        <h3>Padding Classı</h3>
+
+        <p class="p-5">
+            Padding vermek için m yerine p ön eki kullanılır
+        </p>
+
+        <p class="px-5">
+            px-5 classı soldan ve sağdan 5 birimlik boşluk verir
+        </p>
+
+        <p class="py-5">
+            py-5 classı üstten alttan 5 birimlik boşluk verir
+        </p>
+
+        <h2>Metin Hizalama</h2>
+
+        <p class="text-center">
+            text-center classı elementteki içeriği ortalamamızı sağlar
+        </p>
+
+        <p class="text-end">
+            text-end : sağa hizala
+        </p>
+
+        <p class="text-start">
+            text-start : sola hizala
+        </p>
+
+        <p class="text-center">
+            <img src="../Images/google.png" />
+        </p>
+
+        <h3>Resimleri Responsive Hale Getirme</h3>
+
+        <p>
+            Bootstrap de resimler için classlar mevcuttur
+            <br />
+            img-fluid class ı resmi responsive hale getririr
+            <br />
+            img-thumbnail class ı dışı çizgili küçük resim formatı verir
+        </p>
+
+        <div class="row">
+            <div class="col-4">
+                <img src="../Images/bgVideo.jpg" class="img-fluid" />
+            </div>
+            <div class="col-5">
+                <img src="../Images/net-core-eticaret-gelistirme-egitimi29.png" class="img-thumbnail" />
+            </div>
+        </div>
+
+        <h3>
+            Diğer Boyutlandırma Yöntemi
+        </h3>
+
+        <p>
+            w-25 : %25 <br />
+            w-50 : %50 <br />
+            w-75 : %75 <br />
+            w-100 : %100 <br />
+        </p>
+
+        <div class="row">
+            <div class="col-4">
+                <img src="../Images/bgVideo.jpg" class="w-50" />
+            </div>
+            <div class="col-5">
+                <img src="../Images/net-core-eticaret-gelistirme-egitimi29.png" class="w-75" />
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
