@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3CodeFirst",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationEgitim", "WebApplicationEgitim\WebApplicationEgitim.csproj", "{1C29E66A-1E44-4686-9F5C-69CDEDD6CAE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationMVCEgitim", "WebApplicationMVCEgitim\WebApplicationMVCEgitim.csproj", "{AD2A3026-B8F1-43DD-86E7-887228F80D7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{1C29E66A-1E44-4686-9F5C-69CDEDD6CAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C29E66A-1E44-4686-9F5C-69CDEDD6CAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C29E66A-1E44-4686-9F5C-69CDEDD6CAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2A3026-B8F1-43DD-86E7-887228F80D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2A3026-B8F1-43DD-86E7-887228F80D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2A3026-B8F1-43DD-86E7-887228F80D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2A3026-B8F1-43DD-86E7-887228F80D7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
