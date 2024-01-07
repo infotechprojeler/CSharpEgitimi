@@ -21,7 +21,8 @@
                     <li>@Html.ActionLink("Hakkımızda", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("Razor Syntax", "Index", "MVC01RazorSyntax", new { area = "" }, new { @class = "nav-link" })</li>
                     <li>@Html.ActionLink("Helpers", "Index", "MVC02HtmlAndTagHelpers", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("DataTransfer", "Index", "MVC03DataTransfer", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("DataTransfer", "Index", "MVC03DataTransfer", new { area = "" }, new { @class = "nav-link" + ViewBag.ActiveClass })</li>
+                    <li>@Html.ActionLink("ModelBinding", "Index", "MVC04ModelBinding", new { area = "" }, new { @class = "nav-link" + ViewBag.ActiveClass })</li>
                 </ul>
             </div>
         </div>
