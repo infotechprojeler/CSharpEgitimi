@@ -1,8 +1,10 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations; // validasyon kontrolleri için gerekli kütüphane
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema; // validasyon kontrolleri için gerekli kütüphane
 // Entityframework veritabanı tablo ve kolonlarını oluştururken classlarda belirlediğimiz validasyon kurallarını dikkate alır.
 namespace WebApplicationMVCEgitim.Models
 {
+    [Table("Uyeler")] // Entityframework veritabanını oluştururken Class adının sonuna s takısı ekleyerek ingilizceye göre oluştururyor, bu komutla oluşacak tablo adını belirleyebiliyoruz
     public class Uye
     {
         public int Id { get; set; }

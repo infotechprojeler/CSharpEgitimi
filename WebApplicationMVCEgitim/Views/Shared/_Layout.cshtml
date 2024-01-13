@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - ASP.NET MVC</title>
     @Styles.Render("~/Content/css")
+    @RenderSection("OzelCss", required: false)
     @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
@@ -24,6 +25,9 @@
                     <li>@Html.ActionLink("DataTransfer", "Index", "MVC03DataTransfer", new { area = "" }, new { @class = "nav-link" + ViewBag.ActiveClass })</li>
                     <li>@Html.ActionLink("ModelBinding", "Index", "MVC04ModelBinding", new { area = "" }, new { @class = "nav-link" + ViewBag.ActiveClass })</li>
                     <li>@Html.ActionLink("ModelValidation", "Index", "MVC05ModelValidation", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("CRUD", "Index", "MVC06CRUD", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Section", "Index", "MVC07Section", new { area = "" }, new { @class = "nav-link" })</li>
+                    @Html.Partial("_PartialMenu")
                 </ul>
             </div>
         </div>
@@ -34,6 +38,7 @@
         <footer>
             <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
         </footer>
+        @RenderSection("OzelIcerik", required: false)
     </div>
 
     @Scripts.Render("~/bundles/jquery")

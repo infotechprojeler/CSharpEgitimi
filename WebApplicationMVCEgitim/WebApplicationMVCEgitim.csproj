@@ -125,6 +125,9 @@
     <Compile Include="Controllers\MVC04ModelBindingController.cs" />
     <Compile Include="Controllers\MVC05ModelValidationController.cs" />
     <Compile Include="Controllers\MVC06CRUDController.cs" />
+    <Compile Include="Controllers\MVC07SectionController.cs" />
+    <Compile Include="Controllers\MVC08PartialController.cs" />
+    <Compile Include="Controllers\MVC09ViewResultsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -198,10 +201,17 @@
     <Content Include="Views\MVC04ModelBinding\KullaniciAdresDetay.cshtml" />
     <Content Include="Views\MVC05ModelValidation\Index.cshtml" />
     <Content Include="Views\MVC05ModelValidation\YeniUye.cshtml" />
+    <Content Include="Views\MVC06CRUD\Index.cshtml" />
+    <Content Include="Views\MVC06CRUD\Create.cshtml" />
+    <Content Include="Views\MVC06CRUD\Edit.cshtml" />
+    <Content Include="Views\MVC06CRUD\Delete.cshtml" />
+    <Content Include="Views\MVC07Section\Index.cshtml" />
+    <Content Include="Views\MVC08Partial\Index.cshtml" />
+    <Content Include="Views\Shared\_PartialMenu.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\MVC06CRUD\" />
+    <Folder Include="Views\MVC09ViewResults\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
