@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Konu16Collections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6bd88c16500998c044f8c0adda8571e7a90bd4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Konu16Collections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Konu16Collections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
