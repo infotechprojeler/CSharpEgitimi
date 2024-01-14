@@ -128,6 +128,9 @@
     <Compile Include="Controllers\MVC07SectionController.cs" />
     <Compile Include="Controllers\MVC08PartialController.cs" />
     <Compile Include="Controllers\MVC09ViewResultsController.cs" />
+    <Compile Include="Controllers\MVC10FileUploadController.cs" />
+    <Compile Include="Controllers\MVC11CookieController.cs" />
+    <Compile Include="Controllers\MVC12SessionController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -208,10 +211,16 @@
     <Content Include="Views\MVC07Section\Index.cshtml" />
     <Content Include="Views\MVC08Partial\Index.cshtml" />
     <Content Include="Views\Shared\_PartialMenu.cshtml" />
+    <Content Include="Views\MVC09ViewResults\Index.cshtml" />
+    <Content Include="Views\Shared\_KategorilerPartial.cshtml" />
+    <Content Include="Views\Shared\_PartialModelKullanimi.cshtml" />
+    <Content Include="Views\MVC10FileUpload\Index.cshtml" />
+    <Content Include="Views\MVC11Cookie\Index.cshtml" />
+    <Content Include="Views\MVC11Cookie\CookieOku.cshtml" />
+    <Content Include="Views\MVC12Session\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\MVC09ViewResults\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />

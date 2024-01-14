@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "MVC File Upload - Dosya Yükleme İşlemleri";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<form action="/MVC10FileUpload" method="post" enctype="multipart/form-data">
+    <input type="file" name="dosya" id="fileupload" />
+    <hr />
+    <input type="submit" value="Yükle" />
+</form>
+
+<p class="alert alert-warning">
+    Dikkat! Dosya yüklemek için form elementine enctype="multipart/form-data" attribute ütünü eklemeliyiz yoksa dosya yüklenmez!!
+</p>
+
+@TempData["Message"]
+
+<hr />
+
+<img src="/Images/@ViewBag.ResimAdi" alt="Resim Yok" width="333" />
