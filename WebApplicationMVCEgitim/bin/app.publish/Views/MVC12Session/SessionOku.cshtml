@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Session Oku";
+}
+
+<h2>Session Oku</h2>
+
+@if (Session["userguid"] != null && Session["kullanici"] != null)
+{
+    <div class="alert alert-info">
+        @TempData["SessionBilgi"]
+    </div>
+
+    var uye = Session["kullanici"] as Uye; // burada sessiondaki nesnenin Uye sınıfından bir nesne olduğunu as Uye ifadesiyle belirtiyoruz.
+    <div>
+        Hoşgeldin <b>@TempData["SessionBilgi"]</b>
+        <hr />
+        <b>
+            Guid Değeri : @Session["userguid"]
+        </b>
+        <h3>
+            Kullanıcı Bilgileriniz
+        </h3>
+        <table class="table">
+            <tr>
+                <td>Ad Soyad</td>
+                <td>@uye.Ad @uye.Soyad</td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td>@uye.Email</td>
+            </tr>
+            <tr>
+                <td>TC Kimlik No</td>
+                <td>@uye.TcKimlikNo</td>
+            </tr>
+            <tr>
+                <td>Telefon</td>
+                <td>@uye.Telefon</td>
+            </tr>
+            <tr>
+                <td>Doğum Tarihi</td>
+                <td>@uye.DogumTarihi.ToShortDateString()</td>
+            </tr>
+        </table>
+        <a href="/MVC12Session/SessionSil" class="btn btn-danger">Oturumu Kapat</a>
+
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        Session Boş
+    </div>
+    <a href="/MVC12Session" class="btn btn-success">Oturumu Aç</a>
+}

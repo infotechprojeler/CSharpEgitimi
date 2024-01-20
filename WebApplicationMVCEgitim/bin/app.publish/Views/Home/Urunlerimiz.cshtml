@@ -1,0 +1,20 @@
+﻿@{
+    Layout = null; // Burası bu sayfada tüm sitenin ana şablonu olan layout dosyasını kullanmayacağımızı, bu sayfanın kendi tasarımı olduğunu belirtir.
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Message</title>
+    <link href="/Content/bootstrap.css" rel="stylesheet" />
+    <link href="/Content/site.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div>
+        @ViewBag.Message
+    </div>
+</body>
+</html>

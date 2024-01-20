@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Hakkımızda"; // burası sayfa başlığının ayarlandığı alan
+    Layout = "~/Views/Shared/_Layout2.cshtml"; // bu satır bu sayfanın varsayılan layout yerine layout2 ana şablonunu kullanmasını sağlar!
+}
+<main aria-labelledby="title">
+    <h2 id="title">@ViewBag.Title</h2>
+    <h3>@ViewBag.Message</h3>
+
+    <p>Hakkımızda sayfa içerikleri buraya eklenebilir.</p>
+    <p>
+        C# kodu ile html kodlarını karışık yazabiliyoruz. Ekrandaki metnin c# kodu olduğunu başına eklenen at ifadesinden anlıyor sistem. Bu yazım şekline de razor syntax ı deniliyor
+    </p>
+</main>

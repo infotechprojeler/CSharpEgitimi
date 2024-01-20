@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "İletişim";
+}
+<main aria-labelledby="title">
+    <table>
+        <tr>
+            <td>
+                <h2 id="title">@ViewBag.Title</h2>
+                <h3>@ViewBag.Message</h3>
+
+                <address>
+                    One Microsoft Way<br />
+                    Redmond, WA 98052-6399<br />
+                    <abbr title="Phone">P:</abbr>
+                    425.555.0100
+                </address>
+
+                <address>
+                    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
+                    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+                </address>
+            </td>
+            <td>
+                <form action="/" method="post">
+                    <table>
+                        <tr>
+                            <td>
+                                Adınız Soyadınız
+                            </td>
+                            <td>
+                                <input type="text" name="txtAdSoyad" value="" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Telefon
+                            </td>
+                            <td>
+                                <input type="text" id="txtTelefon" name="txtTelefon" value="" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Email
+                            </td>
+                            <td>
+                                <input type="text" name="txtEmail" value="" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Mesajınız
+                            </td>
+                            <td>
+                                <textarea name="txtMesaj"></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <input type="submit" name="btnGonder" value="Gönder" />
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </td>
+        </tr>
+    </table>
+    
+</main>

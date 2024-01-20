@@ -49,5 +49,16 @@ namespace WebApplicationMVCEgitim.Controllers
             }
             return View();
         }
+        [HttpPost]
+        public ActionResult ResimSil(string resimYolu)
+        {
+            var resimVarmi = System.IO.File.Exists(resimYolu); // bu metot kendisine verilen yolda bir dosya var mı yok mu  kontrol eder ve varsa true yoksa false döner
+            if (resimVarmi == true) // eğer sunucuda resim varsa
+            {
+                System.IO.File.Delete(resimYolu); // resmi sunucudan sil
+                return RedirectToAction("Index"); // ve tekrar sayfayı indexe yönlendir.
+            }
+            return View();
+        }
     }
 }

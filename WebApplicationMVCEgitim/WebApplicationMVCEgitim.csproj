@@ -131,6 +131,10 @@
     <Compile Include="Controllers\MVC10FileUploadController.cs" />
     <Compile Include="Controllers\MVC11CookieController.cs" />
     <Compile Include="Controllers\MVC12SessionController.cs" />
+    <Compile Include="Controllers\MVC13StringFormatController.cs" />
+    <Compile Include="Controllers\MVC14AppSettingController.cs" />
+    <Compile Include="Controllers\MVC15FiltersUsingController.cs" />
+    <Compile Include="Filters\UserControl.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -162,6 +166,10 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\aspnetcoemvc16.png" />
+    <Content Include="Images\bgVideo.jpg" />
+    <Content Include="Images\cbdtmv1p.png" />
+    <Content Include="Images\ujbbjvvu.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -218,6 +226,10 @@
     <Content Include="Views\MVC11Cookie\Index.cshtml" />
     <Content Include="Views\MVC11Cookie\CookieOku.cshtml" />
     <Content Include="Views\MVC12Session\Index.cshtml" />
+    <Content Include="Views\MVC12Session\SessionOku.cshtml" />
+    <Content Include="Views\MVC13StringFormat\Index.cshtml" />
+    <Content Include="Views\MVC14AppSetting\Index.cshtml" />
+    <Content Include="Views\MVC15FiltersUsing\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
