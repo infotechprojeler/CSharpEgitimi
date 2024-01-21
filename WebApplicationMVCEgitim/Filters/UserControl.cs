@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
 namespace WebApplicationMVCEgitim.Filters
 {
@@ -17,6 +13,19 @@ namespace WebApplicationMVCEgitim.Filters
                 filterContext.Result = new RedirectResult("/MVC12Session?msg=AccessDenied");
             }
             base.OnActionExecuted(filterContext);
+        }
+        public override void OnActionExecuting(ActionExecutingContext filterContext)
+        {
+            // action çalışmaya başladığında filtre kullanmak istersek
+            base.OnActionExecuting(filterContext);
+        }
+        public override void OnResultExecuted(ResultExecutedContext filterContext)
+        {
+            base.OnResultExecuted(filterContext);
+        }
+        public override void OnResultExecuting(ResultExecutingContext filterContext)
+        {
+            base.OnResultExecuting(filterContext);
         }
     }
 }

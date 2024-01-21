@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "MVC16 Http Context";
+}
+
+<h2>MVC16 Http Context</h2>
+
+<p>
+    Mvc de controller veya view larda uygulumanın yapılan isteklerdeki controller, action, id, query string vb gibi bilgilere erişip işlememizi sağlayan yapı HttpContext dir.
+</p>
+
+<form>
+    <input type="search" name="kelime" placeholder="Ürün Ara" />
+</form>
+
+Controller Adı : @ViewContext.RouteData.Values["controller"].ToString()
+<hr />
+Action Adı : @ViewContext.RouteData.Values["action"].ToString()
+<hr />
+Id Değeri : @ViewContext.RouteData.Values["id"]
+<hr />
+Request Metot : @Context.Request.HttpMethod
+<hr />
+Request Url Scheme : @Context.Request.Url.Scheme
+<hr />
+Request QueryString : @Context.Request.QueryString
+<hr />
+Request QueryString["kelime"] : @Context.Request.QueryString["kelime"]
+<hr />
+Session Değeri : @Context.Session["UserGuid"]
+<hr />
+Cookie Değeri : @Context.Request.Cookies["UserGuid"].Value
+<hr />
+Kullanıcı Oturum Açmış mı? : @Context.User.Identity.IsAuthenticated
+<hr />
+Kullanıcı Admin mi? : @Context.User.IsInRole("Admin")
